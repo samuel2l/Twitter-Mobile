@@ -2,7 +2,7 @@
 
 Flutter client for the Twitter-style backend. Dark theme, Riverpod, cookie sessions — no `go_router`. Talks to the API over REST + WebSocket.
 
-Pair with [`twitter-backend`](../twitter-backend).
+Pair with the API: [samuel2l/Twitter-backend](https://github.com/samuel2l/Twitter-backend).
 
 ## What it does
 
@@ -40,7 +40,7 @@ AuthGate → OnboardingGate → HomeScreen
 
 ## Setup
 
-1. Backend running (`npm run dev` in twitter-backend).
+1. Backend running (`npm run dev` in [Twitter-backend](https://github.com/samuel2l/Twitter-backend)).
 2. Copy env:
 
 ```bash
