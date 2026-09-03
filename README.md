@@ -2,7 +2,7 @@
 
 Flutter client for the Twitter-style backend. Dark theme, Riverpod, cookie sessions — no `go_router`. Talks to the API over REST + WebSocket.
 
-Pair with the API: [samuel2l/Twitter-backend](https://github.com/samuel2l/Twitter-backend).
+Pair with the API: [Twitter backend](https://github.com/samuel2l/Twitter-backend).
 
 ## What it does
 
